@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhvatkina
 - 👀 I’m interested in video editing and programming
-- 🌱 I’m currently learning java and javascript in uni
+- 🌱 I’m currently learning С# in uni
 - For myself i was learning Python 
 - 📫  text me in telegram @yulichella
 
