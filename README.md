@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhvatkina
-- 👀 I’m interested in video editing and programming
+- 👀 I love cycling, playing tennis, swimming, running and of course programming.
 - 🌱 I’m currently learning С# in uni
 - For myself i was learning Python 
 - 📫  text me in telegram @yulichella
